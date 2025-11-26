@@ -1,58 +1,58 @@
-# 🌿 CeleryWorks
+# 🌿 CeleryLabs
 
-**CeleryWorks** is an open-source organization dedicated to building modern tooling,
-developer utilities, and observability experiences for the **Celery** ecosystem.
+**CeleryLabs** is an open-source organization focused on delivering modern,
+developer-friendly tooling for the **Celery** ecosystem.
 
-Our mission is simple:  
-**Improve the Celery developer experience through better visibility, better tooling, and better design.**
+Our mission:  
+**Provide clean, intuitive, and powerful monitoring and workflow tools that elevate the Celery developer experience.**
 
 ---
 
 ## 🚀 Projects
 
-### **🔍 Celery Watch**
-A modern reimagining of Celery Flower — built with a clean architecture, improved UX,
-real-time insights, and a developer-friendly design philosophy.
+### 🔍 Celery Watch  
+A next-generation replacement for Celery Flower — rebuilt from the ground up with a modern architecture, improved UX, and real-time observability.
 
-Features include:
-- Event stream monitoring  
-- Worker and task lifecycle visualization  
-- Performance insights  
-- Modern UI powered by React/Vite  
-- API and backend powered by FastAPI  
-- Extensible core for plugin-style enhancements  
+Key highlights:
+- Worker & task lifecycle monitoring  
+- Real-time event stream visualization  
+- Performance and workload insights  
+- Modern UI powered by React + Vite  
+- Backend powered by FastAPI  
+- Extensible core designed for future plugins  
 
-More coming soon.
+More tools coming soon.
 
 ---
 
 ## 🎯 Vision
 
-- Deliver **next-generation monitoring** for Celery applications  
-- Provide **well-documented**, **intuitive**, and **beautifully designed** tools  
-- Support production-ready workflows for teams and enterprises  
-- Maintain a **welcoming, open-source community**  
+- Deliver **beautiful, modern monitoring tools** for Celery developers  
+- Improve transparency, debugging, and productivity in task-based workflows  
+- Foster a **community-driven ecosystem** of Celery utilities  
+- Provide documentation and patterns that make Celery easier to adopt and manage  
 
 ---
 
 ## 🤝 Contributing
 
-We welcome contributions of all sizes:
-- UI/UX improvements  
-- Backend integrations  
-- Performance optimizations  
-- Documentation  
-- Feature proposals  
+We welcome contributors of all levels.  
+You can help by:
+- Improving UI/UX  
+- Adding event/worker/task integrations  
+- Enhancing backend performance  
+- Proposing new features  
+- Writing documentation  
 
-Check out our contributing guide (coming soon!) or open a discussion.
-
----
-
-## 📫 Contact & Community
-
-Questions, ideas, or improvements?  
-Feel free to open an **Issue** or **Discussion** on the Celery Watch repository.
+A contributing guide and roadmap will be available soon.
 
 ---
 
-### 🌟 Built for developers. Inspired by Celery. Powered by open source.
+## 📫 Community
+
+Have ideas or questions?  
+Open an **Issue** or start a **Discussion** in the Celery Watch repository.
+
+---
+
+### 🌟 Modern tooling for a modern Celery ecosystem — powered by open source.
